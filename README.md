@@ -1,7 +1,6 @@
 # 🛍️ ShopAI --- Intelligent Product Recommendation System
 
-🚀 **Live Demo:**\
-https://saurabh050794.github.io/Auto_Recommendation_Product/ShopAI.html
+🔗 **Live Demo:** [Click here to open ShopAI](https://saurabh050794.github.io/Auto_Recommendation_Product/ShopAI.html)
 
 ------------------------------------------------------------------------
 
