@@ -2,7 +2,7 @@
 
 > **Ek standalone HTML file jisme 1000+ Amazon products ki smart recommendations milti hain — bina kisi server ke!**
 
-🔗 **Live Demo:** [Click here to open ShopAI](https://YOUR-USERNAME.github.io/shopai/ShopAI.html)
+🔗 **Live Demo:** [Click here to open ShopAI](https://saurabh050794.github.io/Auto_Recommendation_Product/ShopAI.html)
 
 ---
 
